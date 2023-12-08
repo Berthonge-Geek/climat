@@ -1,0 +1,65 @@
+.aboutUs {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 63.35px);
+}
+.frame,
+.frameIcon {
+  position: absolute;
+  top: 911px;
+  left: 619.7px;
+  width: 126.7px;
+  height: 32px;
+  overflow: hidden;
+}
+.frameIcon {
+  top: 3427px;
+  left: 0;
+  width: 1366px;
+  height: 901px;
+}
+.loremIpsumDolor {
+  position: absolute;
+  top: 147.5px;
+  left: 0;
+  display: inline-block;
+  width: 627px;
+  height: 138px;
+}
+.frame1,
+.frame2,
+.maskGroupIcon {
+  position: absolute;
+  top: 0;
+  height: 433px;
+}
+.maskGroupIcon {
+  left: 654px;
+  width: 433px;
+  object-fit: cover;
+}
+.frame1,
+.frame2 {
+  left: 0;
+  width: 1087px;
+  overflow: hidden;
+}
+.frame1 {
+  top: 1018.5px;
+  left: 139px;
+  width: 100vw;
+  text-align: left;
+  font-size: 15px;
+  color: #000;
+}
+.webFinal {
+  position: relative;
+  background-color: #fff;
+  width: 100vw;
+  height: 3873px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 26px;
+  color: #077923;
+  font-family: Montserrat;
+}
